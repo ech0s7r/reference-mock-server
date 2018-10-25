@@ -1,1 +1,1 @@
-web: node index.js
+web: nodemon --ignore "*.json" index.js
